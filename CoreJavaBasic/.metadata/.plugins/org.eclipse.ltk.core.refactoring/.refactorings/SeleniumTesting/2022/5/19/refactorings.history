@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;openbrowser.foxbrowser&apos; to &apos;Genericwaytoopenfirefoxbrowser&apos;&#x0D;&#x0A;- Original project: &apos;SeleniumTesting&apos;&#x0D;&#x0A;- Original element: &apos;openbrowser.foxbrowser&apos;&#x0D;&#x0A;- Renamed element: &apos;openbrowser.Genericwaytoopenfirefoxbrowser&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;foxbrowser&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;openbrowser{foxbrowser.java[foxbrowser" matchStrategy="1" name="Genericwaytoopenfirefoxbrowser" qualified="false" references="true" similarDeclarations="false" stamp="1651567080720" textual="false" version="1.0"/>
+</session>
